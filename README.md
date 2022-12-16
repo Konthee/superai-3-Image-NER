@@ -7,6 +7,6 @@ The Super AI Engineer 2022: Image-NER competition is a challenge for participant
 ## Outcome
 
 - **Ranked 🎖️#1 amongs 79 teams** participating the [Kaggle hackathon](https://www.kaggle.com/competitions/superai-hackathon-online-image-ner/leaderboard) in the score leaderboard.
-- Scored (Edit distance) 0.33569 and 0.32153 in private and public leaderboard
+- **Scored (Edit distance) 0.33569 and 0.32153** in private and public leaderboard
 
 ![image](https://user-images.githubusercontent.com/98932144/208120480-35e027bc-f5d6-4ed9-aadd-f869dd52a8b7.png)
