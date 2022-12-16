@@ -63,9 +63,11 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 Deskewing an image is the process of correcting the skew or rotation of an image. Skew occurs when an image is not perfectly aligned with the horizontal or vertical axis, and it can make the image difficult to analyze or process.
 
-from deskew import determine_skew
+
 
 ``` python
+from deskew import determine_skew
+
 # Rotate the image around its center
 def rotateImage(cvImage, angle: float):
     newImage = cvImage.copy()
