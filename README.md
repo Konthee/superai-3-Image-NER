@@ -41,7 +41,7 @@ import cv2
 dst = cv2.fastNlMeansDenoising(src, h=3, templateWindowSize=7, searchWindowSize=21)
 ```
 
- ![image](https://user-images.githubusercontent.com/98932144/208123314-f0ed0938-1520-45ed-8828-d4722cadcc67.png)
+![image](https://user-images.githubusercontent.com/98932144/208129329-eeb8944a-2f4a-4baf-9d9a-b999282ba09b.png)
  
  #### 2) Color to gray sclae
   Converting an image from color (also known as "RGB" or "true color") to grayscale is a common image processing operation. Grayscale images are simpler and smaller in size than color images, and they can be easier to analyze and process in some cases.
